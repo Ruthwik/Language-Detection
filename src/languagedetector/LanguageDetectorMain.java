@@ -12,7 +12,7 @@ public class LanguageDetectorMain {
 	    	
 	    	LanguageMapper languageMapper = new LanguageMapper();
 	    	
-	    	//load the trained model
+	    	// load the trained Language Detector Model file
 	    	File modelFile = new File(".\\resources\\langdetect-183.bin");
 	    	
 	    	LanguageDetectorModel trainedModel = new LanguageDetectorModel(modelFile);
