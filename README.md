@@ -40,12 +40,12 @@ LanguageDetector languageDetector = new LanguageDetectorME(trainedModel);
 Input the sentence of a language.
 ```Java
 Language[] languages = languageDetector.predictLanguages("Puedo darte ejemplos de los métodos");
- System.out.println("Predicted language: "+ languages[0].getLang());
+System.out.println("Predicted language: "+ languages[0].getLang());
 ```
 
 The list contains languages and respective confidences. The first element in the list gives the language with highest confidence which is the required one.
 
-# Tools used
+## Tools used
 
  * Java 1.8
  * opennlp-tools-1.8.3
