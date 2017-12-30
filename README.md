@@ -17,10 +17,10 @@ The model effectiveness details can be found in the following [report](https://w
 # Use
 ### How to build a Language Detector
 
-Following are the steps to learn how to use Language Detector from Apache Opennlp.
+Following are the steps to use Language Detector from Apache Opennlp.
 Language Detector Model is used and therefore the traning step is not required.
 
-The steps for traning a own model can be found [here](https://opennlp.apache.org/docs/1.8.3/manual/opennlp.html#tools.langdetect).
+The steps for traning an own model can be found [here](https://opennlp.apache.org/docs/1.8.3/manual/opennlp.html#tools.langdetect).
 
 ### How to load the model
 
