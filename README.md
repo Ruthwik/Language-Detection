@@ -15,7 +15,7 @@ More information about Language Detector Model can be found in the [README.txt](
 The model effectiveness details can be found in the following [report](https://www.apache.org/dist/opennlp/models/langdetect/1.8.3/langdetect-183.bin.report.txt)
 
 # Use
-### How to build Language Detector
+### How to build a Language Detector
 
 Following are the steps to learn how to use Language Detector from Apache Opennlp.
 Language Detector Model is used and therefore the traning step is not required.
